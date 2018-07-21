@@ -1,0 +1,12 @@
+b0bb9b4057a67238120fbaee215994f1 *DESCRIPTION
+76c8587927bf19d8dab6fa8fca1820d4 *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+8c1fa0e7152cf9a22b2eb649fe1a7971 *R/encoders.R
+af5b9a21970de2f5e7cc455333b4390b *R/imputers.R
+d46e4c03245542921182114f7f31b2e3 *R/inspecters.R
+3f1f6788805d938cc465b622f0bb8d80 *man/encode.Rd
+a636406ef6cb6e295df983e945d08f8a *man/encode_binary.Rd
+3db12792184dbd8a0261a622dd001b69 *man/encode_ordinal.Rd
+8254e06a591754192f361498523969d5 *man/impute.Rd
+e0daf113232250f5e9fc78bbe86b5f9c *man/inspect_map.Rd
+29aa83f9591366487732e8244bf03a40 *man/inspect_na.Rd
